@@ -1,4 +1,7 @@
 # 🎲 Ladder Simulation - Probability-based Ladder Game in Python
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%3E%3D3.0-orange)
 
 This project simulates a ladder game with different path rules (`linear`, `round`, and `diagonal`) and visualizes the probabilities of arriving at each endpoint from a selected starting point.
 
@@ -19,7 +22,6 @@ This project simulates a ladder game with different path rules (`linear`, `round
 
 ```bash
 pip install matplotlib
-pip install random
 ```
 
 ### 2. Run the simulation
